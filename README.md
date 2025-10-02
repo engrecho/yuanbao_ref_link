@@ -1,7 +1,7 @@
 ## 插件适篡改猴
 
-- 一款专为腾讯元宝知识库分享页面设计的浏览器插件（可在篡改猴使用），可一键提取参考文献并格式化为Markdown链接。
-- **GreasyFork**: [GreasyFork复制实用](https://greasyfork.org/zh-CN/scripts/551307-%E5%85%83%E5%AE%9D%E5%8F%82%E8%80%83%E6%96%87%E7%8C%AE%E5%A4%8D%E5%88%B6)
+- 一款专为腾讯元宝生成的分享页面设计的浏览器插件（可在篡改猴使用），可一键提取参考文献并格式化为Markdown链接。
+- **GreasyFork**: [GreasyFork-元宝参考文献复制插件](https://greasyfork.org/zh-CN/scripts/551307-%E5%85%83%E5%AE%9D%E5%8F%82%E8%80%83%E6%96%87%E7%8C%AE%E5%A4%8D%E5%88%B6)
 
 ## 许可证说明
 **许可证**: [MIT License](https://opensource.org/licenses/MIT)  
